@@ -1,0 +1,28 @@
+{
+  "name": "Node-exporter helm chart from bitnami",
+  "appLayout": "accordion",
+  "appTheme": "g90",
+  "footer": "footer.md",
+  "tutorials": [
+    {
+      "description": "Node-exporter helm chart from bitnami",
+      "duration": "30",
+      "title": "Node-exporter helm chart from bitnami",
+      "tutorial_name": "Node-exporter-helm-chart-from-bitnami.md"
+    }
+  ],
+  "usefulLinks": [
+    {
+      "description": "",
+      "url": "",
+      "title": ""
+    }
+  ],
+  "demos": [
+    {
+      "description": "",
+      "url": "",
+      "title": ""
+    }
+  ]
+}

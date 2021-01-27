@@ -1,0 +1,24 @@
+{
+  "title": "Node-exporter helm chart from bitnami",
+  "description": "Node-exporter helm chart from bitnami",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Course"
+  ],
+  "document": "",
+  "stack_id": "Node-exporter_helm_chart_from_bitnami-course_1611713249136",
+  "de_catalog_id": "Node-exporter_helm_chart_from_bitnami-course_1611713249136",
+  "type": "Course",
+  "categories": [
+    "Containerization"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "30 minutes"
+}

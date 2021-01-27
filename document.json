@@ -1,0 +1,46 @@
+{
+  "name": "Node-exporter helm chart from bitnami",
+  "description": "Node-exporter helm chart from bitnami",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": true,
+  "stack_id": "Node-exporter_helm_chart_from_bitnami-course_1611713249136",
+  "type": "Course",
+  "Categories": [
+    "Containerization"
+  ],
+  "source_repo": "",
+  "cover": "cover.md",
+  "use_explorer_dataset": false,
+  "use_catalog_dataset": "",
+  "is_s3_type": false,
+  "meta": {
+    "Install Time": [
+      "30 minutes"
+    ],
+    "Type": [
+      "Course"
+    ],
+    "Categories": [
+      "Containerization"
+    ],
+    "Catalog Id": [
+      "Node-exporter_helm_chart_from_bitnami-course_1611713249136"
+    ],
+    "Contact": [
+      "edge@ibm.com"
+    ],
+    "Last updated": [
+      "Jan 26 2021"
+    ],
+    "Managed By": [
+      "Edge"
+    ]
+  },
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ]
+}
